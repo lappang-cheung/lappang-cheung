@@ -1,4 +1,4 @@
-### Frontend Engineer / Developer
+### Frontend Engineer
 
 ![](https://github-readme-stats.vercel.app/api?username=lappang-cheung&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lappang-cheung&layout=compact&theme=radical)
 
